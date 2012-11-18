@@ -2,7 +2,7 @@ vim
 ===
 
 Installation:
-  git clone git://github.com/aeonbeat/dotvim.git ~/.vim
+  git clone git://github.com/aeonbeat/vim.git ~/.vim
 
 Create symlinks:
 
