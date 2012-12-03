@@ -10,12 +10,6 @@
 [submodule "bundle/vim-css3-syntax"]
 	path = bundle/vim-css3-syntax
 	url = https://github.com/hail2u/vim-css3-syntax.git
-[submodule "bundle/zencoding-vim"]
-	path = bundle/zencoding-vim
-	url = https://github.com/mattn/zencoding-vim.git
 [submodule "bundle/Auto-Pairs"]
 	path = bundle/Auto-Pairs
 	url = https://github.com/vim-scripts/Auto-Pairs.git
-[submodule "bundle/vim-sparkup"]
-	path = bundle/vim-sparkup
-	url = https://github.com/tristen/vim-sparkup.git
