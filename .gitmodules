@@ -13,12 +13,9 @@
 [submodule "bundle/zencoding-vim"]
 	path = bundle/zencoding-vim
 	url = https://github.com/mattn/zencoding-vim.git
-[submodule "vim-autoclose"]
-	path = vim-autoclose
-	url = https://github.com/Townk/vim-autoclose.git
-[submodule "bundle/vim-autoclose"]
-	path = bundle/vim-autoclose
-	url = https://github.com/Townk/vim-autoclose.git
 [submodule "bundle/Auto-Pairs"]
 	path = bundle/Auto-Pairs
 	url = https://github.com/vim-scripts/Auto-Pairs.git
+[submodule "bundle/vim-sparkup"]
+	path = bundle/vim-sparkup
+	url = https://github.com/tristen/vim-sparkup.git
